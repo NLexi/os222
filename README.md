@@ -1,3 +1,3 @@
 # os222
 Operating Systems 2022 - 2
-## *Testing*
+[Log](https://nlexi.github.io/os222/)
