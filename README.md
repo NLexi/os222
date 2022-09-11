@@ -4,6 +4,6 @@
 [GitHub Page](https://nlexi.github.io/os222/) -- 
 [myLog](https://github.com/NLexi/os222/blob/main/mylog.txt) -- 
 [GitHub](https://github.com/NLexi/os222) -- 
-[LINKS](https://github.com/NLexi/os222/LINKS/)
+[Links](https://github.com/NLexi/os222/LINKS/)
 
 Version: {{ site.version }}
