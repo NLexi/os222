@@ -2,9 +2,6 @@
 permalink: /LINKS/
 ---
 
-[Back](https://nlexi.github.io/os222/)
-<br>
-
 # Links
 
 1. [Github Pages](https://www.youtube.com/watch?v=QyFcl_Fba-k)<br>
