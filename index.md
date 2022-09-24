@@ -7,4 +7,8 @@
 [Links](https://NLexi.github.io/os222/LINKS/) --
 [Tarball]({{ site.tarballlink }})
 
-Version: 
+<br>
+<hr>
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+<hr>
+<br> 
