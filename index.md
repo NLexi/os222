@@ -9,6 +9,6 @@
 
 <br>
 <hr>
-&copy; {{ site.copyright }} --- NLexi --- Version: {{ site.version }}.
+&copy; {{ site.copyright }} --- NLexi
 <hr>
 <br> 
