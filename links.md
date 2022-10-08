@@ -17,7 +17,7 @@ Basic video covering basics of linux
 3. [Cybersecurity Basics](https://www.youtube.com/watch?v=5MMoxyK1Y9o)<br>
 Basic video covering the basics of cybersecurity
 
-4. [Covering virtualbox](https://www.youtube.com/watch?v=sB_5fqiysi4)<br>
+4. [Covering Virtualbox](https://www.youtube.com/watch?v=sB_5fqiysi4)<br>
 Further explanarion on virtualbox
 
 5. [More Cybersecurity](https://www.geeksforgeeks.org/cyber-security-types-and-importance/)<br>
@@ -28,5 +28,16 @@ Some documentation on cybersecurity
 6. [Linux Commandlist](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
 Cheatsheet of all linux commands
 
-7. [All about grep](https://www.opensourceforu.com/2012/06/beginners-guide-gnu-grep-basics/)
+7. [All About Grep](https://www.opensourceforu.com/2012/06/beginners-guide-gnu-grep-basics/)
 Further breakdown of the grep command in linux
+
+## Week 04
+8. [Quick C Guide](https://www.youtube.com/watch?v=EbIRKJykc_M)
+A quick introduction to linux
+
+$$ Week 05
+9. [Basics to Memory Manaement](https://www.javatpoint.com/linux-memory-management)
+An intro to memory management
+
+10. [Kernel Panic](https://www.techtarget.com/searchdatacenter/definition/kernel-panic#:~:text=A%20kernel%20panic%20refers%20to,is%20unable%20to%20fix%20it.)
+Explanation ono kernel panic
