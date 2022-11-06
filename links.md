@@ -35,9 +35,17 @@ Further breakdown of the grep command in linux
 8. [Quick C Guide](https://www.youtube.com/watch?v=EbIRKJykc_M)
 A quick introduction to linux
 
-$$ Week 05
+## Week 05
 9. [Basics to Memory Manaement](https://www.javatpoint.com/linux-memory-management)
 An intro to memory management
 
 10. [Kernel Panic](https://www.techtarget.com/searchdatacenter/definition/kernel-panic#:~:text=A%20kernel%20panic%20refers%20to,is%20unable%20to%20fix%20it.)
 Explanation ono kernel panic
+
+## Week 06
+11. [intoduction to C pointers](https://www.youtube.com/watch?v=sjQb7TGTO9U)
+An intro to C pointer addresses
+
+12. [Quick explanation of C functions](https://www.youtube.com/watch?v=3lqgdqoY83o&list=PLBlnK6fEyqRi0Va6znG73P52rFfXD5fhs)
+A small look into functions in C
+
