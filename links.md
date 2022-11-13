@@ -49,3 +49,11 @@ An intro to C pointer addresses
 12. [Quick explanation of C functions](https://www.youtube.com/watch?v=3lqgdqoY83o&list=PLBlnK6fEyqRi0Va6znG73P52rFfXD5fhs)
 A small look into functions in C
 
+## Week 07
+13. [Paging in OS](https://www.geeksforgeeks.org/paging-in-operating-system/)
+Quick review of paging like in the quiz
+
+14. [Deadlocks in OS](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+Introduction to deadlocks in Operating Systems
+
+
