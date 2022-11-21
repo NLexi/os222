@@ -66,3 +66,10 @@ ZCZC W07 40 L09 Weekly Assignments
 ZCZC W07 15 L32 Youtube: watching OS related topics, etc
 ZCZC W07 10 L41 TXT/mylog.txt related
 ZCZC W07 10 L43 TXT/myrank.tex related, including peer review
+ZCZC W08 10 L01 SCELE/Discord related
+ZCZC W08 100 L02 ZOOM meetings related
+ZCZC W08 35 L05 Quiz related including studying
+ZCZC W08 200 L09 Weekly Assignments
+ZCZC W08 180 L32 Youtube: watching OS related topics, etc
+ZCZC W08 10 L41 TXT/mylog.txt related
+ZCZC W08 10 L43 TXT/myrank.tex related, including peer review
